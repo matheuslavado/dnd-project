@@ -7,13 +7,13 @@ Projeto final do curso de Data Analytics da Ironhack. Os objetivos do projeto fo
 ## Biblioteca no Tableau
 [Clique aqui para acessar a biblioteca no Tableau.](https://public.tableau.com/profile/matheus8405#!/vizhome/project_lb_48/dashboard?publish=yes)
 
-## Ferramentas e métodos utilizados:
-- Python
+## Bibliotecas utilizadas
+- Pandas
+- PyPDF2
+- NumPy
 - Selenium
 - RegEx
-- Tableau
 - Multiprocess
-- Pandas
-- NumPy
 - LightGBM
-
+- Scikit-learn
+- Yellowbrick
